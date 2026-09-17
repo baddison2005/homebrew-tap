@@ -1,6 +1,6 @@
 cask "window-layouts" do
-  version "1.3.0"
-  sha256 "2587a9a7f0de7265ef4b0d44af2b68bf786923045b86262fc73dcc11038601be"
+  version "1.4.0"
+  sha256 "e8a112e765e1f167f233b619c209bb129862a878dc66d18b26ab2061c8820356"
 
   url "https://github.com/baddison2005/window-layouts-macos/releases/download/v#{version}/Window-Layouts-#{version}-macOS.dmg",
       verified: "github.com/baddison2005/window-layouts-macos/"
